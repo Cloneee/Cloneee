@@ -1,3 +1,4 @@
+![Alt Text](https://i.gifer.com/39Cg.gif)
 
 <h2> Hey there! I'm Huy.</h2>
 
