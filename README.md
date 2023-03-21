@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/Terminal.gif">
+</p>
 
 <h2> Hey there! I'm Huy.</h2>
 
