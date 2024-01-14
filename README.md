@@ -7,9 +7,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, make the world easier to live.
-- 🎓 &nbsp; Studying Software Engineering at Tôn Đức Thắng University.
-- 💼 &nbsp; Freelancer at Facebook infomation traker and tool development.
-- 🌱 &nbsp; Learning more about Cloud Platform, Database Design and Web Application development.
+- 🎓 &nbsp; Working as Software Engineering at Innova Electronics.
+- 💼 &nbsp; Freelancer with passion about new techonlogy.
+- 🌱 &nbsp; Interested in Cloud Platform, Database Design and Web Application development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
